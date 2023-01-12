@@ -7,3 +7,6 @@
 [submodule "backend-django"]
 	path = backend-django
 	url = https://github.com/JAIMETM/backend-django.git
+[submodule "front-React"]
+	path = front-React
+	url = https://github.com/JAIMETM/front-React.git
