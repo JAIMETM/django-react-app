@@ -1,6 +1,3 @@
-[submodule "backend"]
-	path = backend
-	url = ./backend
 [submodule "backend-django"]
 	path = backend-django
 	url = https://github.com/JAIMETM/backend-django.git
